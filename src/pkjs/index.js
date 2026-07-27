@@ -11,6 +11,7 @@ var COLOR_OPTIONS = [
   { label: "White", value: 7 },
   { label: "Light Gray", value: 8 },
   { label: "Pink", value: 9 },
+  { label: "Purple", value: 10 },
 ];
 
 function colorSelect(messageKey, label, defaultValue) {
@@ -30,6 +31,12 @@ var clayConfig = [
     type: "section",
     items: [
       { type: "heading", defaultValue: "Display" },
+      {
+        type: "toggle",
+        messageKey: "LightTheme",
+        label: "Light Theme (white background)",
+        defaultValue: false,
+      },
       {
         type: "toggle",
         messageKey: "LittleEndianDots",
@@ -118,8 +125,13 @@ var clayConfig = [
         max: 30000,
         step: 1000,
       },
-      colorSelect("OverGoalColor1", "1st Over-Goal Color", 2),
-      colorSelect("OverGoalColor2", "2nd Over-Goal Color", 4),
+      {
+        type: "text",
+        defaultValue:
+          "Each completed goal lights a bigger milestone dot (up to 10x goal). Dots 1-5 use the first color below, 6-10 use the second.",
+      },
+      colorSelect("OverGoalColor1", "Milestones 1-5 Color", 2),
+      colorSelect("OverGoalColor2", "Milestones 6-10 Color", 4),
     ],
   },
 
@@ -177,18 +189,49 @@ var clayConfig = [
     type: "section",
     items: [
       { type: "heading", defaultValue: "Health" },
-      colorSelect("HrColor", "Heart Rate Color", 7),
-      colorSelect("HrAlertColor", "Heart Rate Alert Color", 1),
+      colorSelect("HrColor", "Heart Rate Normal Color", 7),
       colorSelect("HrErrorColor", "Heart Rate Error Color", 6),
+      { type: "text", defaultValue: "Heart Rate Thresholds (low to high)" },
       {
         type: "slider",
         messageKey: "HrAlertBpm",
-        label: "HR Alert Threshold (BPM)",
+        label: "Threshold 1 (BPM)",
         defaultValue: 100,
         min: 60,
-        max: 200,
+        max: 220,
         step: 5,
       },
+      colorSelect("HrAlertColor", "Threshold 1 Color", 5),
+      {
+        type: "slider",
+        messageKey: "HrThreshold2Bpm",
+        label: "Threshold 2 (BPM)",
+        defaultValue: 130,
+        min: 60,
+        max: 220,
+        step: 5,
+      },
+      colorSelect("HrThreshold2Color", "Threshold 2 Color", 0),
+      {
+        type: "slider",
+        messageKey: "HrThreshold3Bpm",
+        label: "Threshold 3 (BPM)",
+        defaultValue: 150,
+        min: 60,
+        max: 220,
+        step: 5,
+      },
+      colorSelect("HrThreshold3Color", "Threshold 3 Color", 1),
+      {
+        type: "slider",
+        messageKey: "HrThreshold4Bpm",
+        label: "Threshold 4 (BPM)",
+        defaultValue: 170,
+        min: 60,
+        max: 220,
+        step: 5,
+      },
+      colorSelect("HrThreshold4Color", "Threshold 4 Color", 10),
       colorSelect("ActivityColor", "Activity Dot Color", 2),
     ],
   },

@@ -21,7 +21,7 @@ static int s_battery_dots;
 static bool s_is_charging;
 static bool s_connected;
 static int s_step_lit;
-static int s_step_cycle;
+static int s_step_milestones; // completed goal-multiples, 0-10 (10 = 100k+)
 static int s_day;
 static int s_month;
 static int s_weekday;
@@ -66,19 +66,48 @@ typedef struct {
   bool little_endian_dots;
   bool show_hour_ticks;
   uint8_t hr_error_color_idx;
+  bool light_theme;
+  uint8_t hr_threshold2_bpm;
+  uint8_t hr_threshold2_color_idx;
+  uint8_t hr_threshold3_bpm;
+  uint8_t hr_threshold3_color_idx;
+  uint8_t hr_threshold4_bpm;
+  uint8_t hr_threshold4_color_idx;
 } Settings;
 
 static Settings s_settings;
 
 // 0=Orange 1=Red 2=Green 3=Blue 4=Cyan 5=Yellow 6=Magenta 7=White 8=LightGray
-// 9=Pink
+// 9=Pink 10=Purple
 static const GColor s_color_table[] = {
     GColorOrange,    GColorRed,         GColorIslamicGreen, GColorBlue,
     GColorCyan,      GColorYellow,      GColorMagenta,      GColorWhite,
-    GColorLightGray, GColorShockingPink};
+    GColorLightGray, GColorShockingPink, GColorPurple};
 
+// White and Light Gray are near-invisible on a light background (and vice
+// versa), so in light theme they're swapped for their contrast-equivalent
+// counterpart. Everything else keeps its chosen color in both themes.
 static GColor get_color(uint8_t idx) {
-  return s_color_table[idx % ARRAY_LENGTH(s_color_table)];
+  GColor c = s_color_table[idx % ARRAY_LENGTH(s_color_table)];
+  if (s_settings.light_theme) {
+    if (gcolor_equal(c, GColorWhite))
+      return GColorBlack;
+    if (gcolor_equal(c, GColorLightGray))
+      return GColorDarkGray;
+  }
+  return c;
+}
+
+// Background, and the "dim/unlit" and "bright/lit" neutrals used for
+// elements that aren't user-color-configurable.
+static GColor theme_bg(void) {
+  return s_settings.light_theme ? GColorWhite : GColorBlack;
+}
+static GColor theme_dim(void) {
+  return s_settings.light_theme ? GColorLightGray : GColorDarkGray;
+}
+static GColor theme_fg(void) {
+  return s_settings.light_theme ? GColorBlack : GColorWhite;
 }
 
 static void load_settings(void) {
@@ -109,12 +138,19 @@ static void load_settings(void) {
       .show_hr_dot = true,
       .show_activity_dot = true,
       .hr_color_idx = 7,       // White
-      .hr_alert_color_idx = 1, // Red
+      .hr_alert_color_idx = 5, // Yellow (tier 1)
       .hr_alert_bpm = 100,
       .activity_color_idx = 2, // Green
       .little_endian_dots = true,
       .show_hour_ticks = false,
       .hr_error_color_idx = 6, // Magenta
+      .light_theme = false,
+      .hr_threshold2_bpm = 130,
+      .hr_threshold2_color_idx = 0, // Orange
+      .hr_threshold3_bpm = 150,
+      .hr_threshold3_color_idx = 1, // Red
+      .hr_threshold4_bpm = 170,
+      .hr_threshold4_color_idx = 10, // Purple
   };
   persist_read_data(SETTINGS_PERSIST_KEY, &s_settings, sizeof(s_settings));
 }
@@ -164,8 +200,8 @@ static void update_step_state(void) {
 #endif
   int goal =
       s_settings.step_goal > 0 ? s_settings.step_goal : STEP_GOAL_DEFAULT;
-  int cycle = (int)(steps / goal);
-  s_step_cycle = cycle > 2 ? 2 : cycle;
+  int milestones = (int)(steps / goal);
+  s_step_milestones = milestones > 10 ? 10 : milestones;
   s_step_lit = (int32_t)(steps % goal) * 10 / goal;
 }
 
@@ -223,12 +259,12 @@ static void canvas_update_proc(Layer *layer, GContext *ctx) {
   GRect bounds = layer_get_unobstructed_bounds(layer);
   GPoint center = grect_center_point(&bounds);
 
-  graphics_context_set_fill_color(ctx, GColorBlack);
+  graphics_context_set_fill_color(ctx, theme_bg());
   graphics_fill_rect(ctx, layer_get_bounds(layer), 0, GCornerNone);
 
   // Hour tick marks just inside the dot ring
   if (s_settings.show_hour_ticks) {
-    graphics_context_set_stroke_color(ctx, GColorDarkGray);
+    graphics_context_set_stroke_color(ctx, theme_dim());
     graphics_context_set_stroke_width(ctx, 1);
     for (int h = 0; h < 12; h++) {
       int32_t a = deg_to_trig(h * 30);
@@ -250,13 +286,13 @@ static void canvas_update_proc(Layer *layer, GContext *ctx) {
     // Color progression: charging=Cyan, 4-5 dots=White, 3=Yellow, 2=Orange,
     // 1=Red
     GColor lit_color = s_is_charging         ? GColorCyan
-                       : s_battery_dots >= 4 ? GColorWhite
+                       : s_battery_dots >= 4 ? theme_fg()
                        : s_battery_dots == 3 ? GColorYellow
                        : s_battery_dots == 2 ? GColorOrange
                                              : GColorRed;
     for (int i = 0; i < 5; i++) {
       graphics_context_set_fill_color(
-          ctx, i < 5 - s_battery_dots ? GColorDarkGray : lit_color);
+          ctx, i < 5 - s_battery_dots ? theme_dim() : lit_color);
       graphics_fill_circle(ctx,
                            point_on_circle(center,
                                            deg_to_trig(r_ang + i * SPACING_DEG),
@@ -269,14 +305,14 @@ static void canvas_update_proc(Layer *layer, GContext *ctx) {
   if (s_settings.show_alarm_dot) {
     graphics_context_set_fill_color(
         ctx, s_alarm_pending ? get_color(s_settings.alarm_color_idx)
-                             : GColorDarkGray);
+                             : theme_dim());
     graphics_fill_circle(
         ctx, point_on_circle(center, deg_to_trig(r_ang), s_outer_r), 2);
     r_ang += GAP2_DEG;
   }
 
   if (s_settings.show_notif_dot) {
-    GColor c = s_notif_count == 0 ? GColorDarkGray
+    GColor c = s_notif_count == 0 ? theme_dim()
                : s_notif_count >= s_settings.notif_threshold
                    ? get_color(s_settings.notif_alert_color_idx)
                    : get_color(s_settings.notif_normal_color_idx);
@@ -289,18 +325,30 @@ static void canvas_update_proc(Layer *layer, GContext *ctx) {
   if (s_settings.show_event_dot) {
     graphics_context_set_fill_color(
         ctx, s_event_pending ? get_color(s_settings.event_color_idx)
-                             : GColorDarkGray);
+                             : theme_dim());
     graphics_fill_circle(
         ctx, point_on_circle(center, deg_to_trig(r_ang), s_outer_r), 2);
     r_ang += GAP2_DEG;
   }
 
   if (s_settings.show_hr_dot) {
-    GColor c = s_heart_rate_error ? get_color(s_settings.hr_error_color_idx)
-               : s_heart_rate == 0 ? GColorDarkGray
-               : s_heart_rate >= s_settings.hr_alert_bpm
-                   ? get_color(s_settings.hr_alert_color_idx)
-                   : get_color(s_settings.hr_color_idx);
+    // Highest matching tier wins: normal < tier1 < tier2 < tier3 < tier4
+    GColor c;
+    if (s_heart_rate_error) {
+      c = get_color(s_settings.hr_error_color_idx);
+    } else if (s_heart_rate == 0) {
+      c = theme_dim();
+    } else if (s_heart_rate >= s_settings.hr_threshold4_bpm) {
+      c = get_color(s_settings.hr_threshold4_color_idx);
+    } else if (s_heart_rate >= s_settings.hr_threshold3_bpm) {
+      c = get_color(s_settings.hr_threshold3_color_idx);
+    } else if (s_heart_rate >= s_settings.hr_threshold2_bpm) {
+      c = get_color(s_settings.hr_threshold2_color_idx);
+    } else if (s_heart_rate >= s_settings.hr_alert_bpm) {
+      c = get_color(s_settings.hr_alert_color_idx);
+    } else {
+      c = get_color(s_settings.hr_color_idx);
+    }
     graphics_context_set_fill_color(ctx, c);
     graphics_fill_circle(
         ctx, point_on_circle(center, deg_to_trig(r_ang), s_outer_r), 2);
@@ -310,24 +358,36 @@ static void canvas_update_proc(Layer *layer, GContext *ctx) {
   if (s_settings.show_activity_dot) {
     graphics_context_set_fill_color(
         ctx, s_activity_active ? get_color(s_settings.activity_color_idx)
-                               : GColorDarkGray);
+                               : theme_dim());
     graphics_fill_circle(
         ctx, point_on_circle(center, deg_to_trig(r_ang), s_outer_r), 2);
   }
 
-  // Steps: bottom arc centered at 6 o'clock, same radius as all dots
+  // Steps: bottom arc centered at 6 o'clock, same radius as all dots.
+  // Dots 0..s_step_milestones-1 mark completed goal-multiples (1st half of
+  // the ring in over_goal_1 color, 2nd half in over_goal_2, so the ring
+  // gets visibly "warmer" as you approach 10x goal) and are drawn bigger.
+  // The remaining dots show live progress toward the next goal-multiple.
   if (s_settings.show_step_dots) {
-    GColor step_c = s_step_cycle == 0   ? GColorWhite
-                    : s_step_cycle == 1 ? get_color(s_settings.over_goal_1_idx)
-                                        : get_color(s_settings.over_goal_2_idx);
     for (int i = 0; i < 10; i++) {
-      graphics_context_set_fill_color(ctx,
-                                      i < s_step_lit ? step_c : GColorDarkGray);
+      bool milestone = i < s_step_milestones;
+      GColor c;
+      uint8_t radius;
+      if (milestone) {
+        c = get_color(i < 5 ? s_settings.over_goal_1_idx
+                            : s_settings.over_goal_2_idx);
+        radius = 3;
+      } else {
+        int rel = i - s_step_milestones;
+        c = rel < s_step_lit ? theme_fg() : theme_dim();
+        radius = 2;
+      }
+      graphics_context_set_fill_color(ctx, c);
       graphics_fill_circle(ctx,
                            point_on_circle(center,
                                            deg_to_trig(225 - i * SPACING_DEG),
                                            s_outer_r),
-                           2);
+                           radius);
     }
   }
 
@@ -338,7 +398,7 @@ static void canvas_update_proc(Layer *layer, GContext *ctx) {
     for (int i = 0; i < 4; i++) {
       int bit = s_settings.little_endian_dots ? i : (3 - i);
       bool lit = (s_month & (1 << bit)) != 0;
-      graphics_context_set_fill_color(ctx, lit ? GColorWhite : GColorDarkGray);
+      graphics_context_set_fill_color(ctx, lit ? theme_fg() : theme_dim());
       graphics_fill_circle(ctx,
                            point_on_circle(center,
                                            deg_to_trig(l_ang - i * SPACING_DEG),
@@ -352,7 +412,7 @@ static void canvas_update_proc(Layer *layer, GContext *ctx) {
     for (int i = 0; i < 5; i++) {
       int bit = s_settings.little_endian_dots ? i : (4 - i);
       bool lit = (s_day & (1 << bit)) != 0;
-      graphics_context_set_fill_color(ctx, lit ? GColorWhite : GColorDarkGray);
+      graphics_context_set_fill_color(ctx, lit ? theme_fg() : theme_dim());
       graphics_fill_circle(ctx,
                            point_on_circle(center,
                                            deg_to_trig(l_ang - i * SPACING_DEG),
@@ -464,6 +524,13 @@ static void inbox_received(DictionaryIterator *iter, void *context) {
   APPLY_BOOL(MESSAGE_KEY_LittleEndianDots, little_endian_dots)
   APPLY_BOOL(MESSAGE_KEY_ShowHourTicks, show_hour_ticks)
   APPLY_U8(MESSAGE_KEY_HrErrorColor, hr_error_color_idx)
+  APPLY_BOOL(MESSAGE_KEY_LightTheme, light_theme)
+  APPLY_U8(MESSAGE_KEY_HrThreshold2Bpm, hr_threshold2_bpm)
+  APPLY_U8(MESSAGE_KEY_HrThreshold2Color, hr_threshold2_color_idx)
+  APPLY_U8(MESSAGE_KEY_HrThreshold3Bpm, hr_threshold3_bpm)
+  APPLY_U8(MESSAGE_KEY_HrThreshold3Color, hr_threshold3_color_idx)
+  APPLY_U8(MESSAGE_KEY_HrThreshold4Bpm, hr_threshold4_bpm)
+  APPLY_U8(MESSAGE_KEY_HrThreshold4Color, hr_threshold4_color_idx)
 
 #undef APPLY_BOOL
 #undef APPLY_U8

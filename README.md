@@ -47,12 +47,14 @@ Single dots arranged clockwise after the battery group. Each can be toggled inde
 | Alarm        | No alarm   | Upcoming alarm pending                            |
 | Notification | No notifs  | Unread notifications; alert color above threshold |
 | Event        | No events  | Upcoming calendar event                           |
-| Heart rate   | No reading | Normal BPM; alert color above threshold; configurable error color when sensor fails |
+| Heart rate   | No reading | Normal BPM; 4 stacked alert tiers above configurable BPM thresholds; configurable error color when sensor fails |
 | Activity     | Idle       | Walk or run detected                              |
 
 ### Steps (4:30–7:30) — 10 dots
 
-Each dot = 1/10th of the daily goal (default 10 000 steps). Lights up as steps accumulate. On reaching the goal the color cycles: White → Over-goal 1 → Over-goal 2.
+Each dot = 1/10th of the daily goal (default 10 000 steps). Dots light up (normal size, White) as steps accumulate toward the goal.
+
+Once the goal is reached, the dot at that position becomes a **milestone dot**: bigger, and colored with the 1st over-goal color (dots 1–5) or 2nd over-goal color (dots 6–10). The remaining dots keep tracking live progress toward the *next* milestone. This lets the same 10-dot ring encode up to 10× the daily goal — e.g. with the default 10 000-step goal, 3 big dots means 30 000 steps done, and a full ring of big dots means 100 000.
 
 ### Month (10–11 o'clock) — 4 dots, binary
 
@@ -84,6 +86,7 @@ Configured from the Pebble / Rebble phone app. All dot groups can be toggled on 
 
 | Section        | Setting                                  | Default        |
 | -------------- | ---------------------------------------- | -------------- |
+| Display        | Light theme (white background)           | Off            |
 | Display        | Binary dots LSB first                    | On             |
 | Display        | Hour ticks                               | Off            |
 | Display        | Battery / Steps / Date / Month / Weekday | All on         |
@@ -91,7 +94,7 @@ Configured from the Pebble / Rebble phone app. All dot groups can be toggled on 
 | Display        | Notification dot                         | Off            |
 | Display        | Heart rate / Activity dots               | On             |
 | Steps          | Daily step goal                          | 10 000         |
-| Steps          | 1st / 2nd over-goal color                | Green / Cyan   |
+| Steps          | Milestone color for dots 1-5 / 6-10      | Green / Cyan   |
 | Clock Hands    | Hour hand color                          | Red            |
 | Clock Hands    | Minute hand color                        | White          |
 | Bluetooth      | Vibrate on disconnect                    | On             |
@@ -99,12 +102,16 @@ Configured from the Pebble / Rebble phone app. All dot groups can be toggled on 
 | Alarm & Events | Alarm / Event dot color                  | White          |
 | Notifications  | Normal / Alert color                     | White / Red    |
 | Notifications  | Alert threshold (notif count)            | 5              |
-| Health         | Heart rate normal / alert / error color  | White / Red / Magenta |
-| Health         | HR alert threshold (BPM)                 | 100            |
+| Health         | Heart rate normal / error color          | White / Magenta |
+| Health         | HR threshold 1-4 (BPM) / color           | 100 Yellow, 130 Orange, 150 Red, 170 Purple |
 | Health         | Activity dot color                       | Green          |
 | Weekday Colors | Per-day color (Sun–Sat)                  | Planetary      |
 
-Available colors: Orange, Red, Green, Blue, Cyan, Yellow, Magenta, White, Light Gray, Pink.
+Available colors: Orange, Red, Green, Blue, Cyan, Yellow, Magenta, White, Light Gray, Pink, Purple.
+
+### Light theme
+
+Toggling "Light Theme" swaps the background to white and flips White <-> Black and Light Gray <-> Dark Gray wherever they'd otherwise vanish against the new background, so every other color setting keeps the same visual weight without needing to be reconfigured.
 
 ## Power
 
