@@ -52,9 +52,9 @@ Single dots arranged clockwise after the battery group. Each can be toggled inde
 
 ### Steps (4:30–7:30) — 10 dots
 
-Each dot = 1/10th of the daily goal (default 10 000 steps). Dots light up (normal size, White) as steps accumulate toward the goal.
+Each dot = 1/10th of the daily goal (default 10 000 steps). Dots light up in the **Dot Completed Color** as steps accumulate, starting from the **Dot Default Color** (unlit).
 
-Once the goal is reached, the dot at that position becomes a **milestone dot**: bigger, and colored with the 1st over-goal color (dots 1–5) or 2nd over-goal color (dots 6–10). The remaining dots keep tracking live progress toward the *next* milestone. This lets the same 10-dot ring encode up to 10× the daily goal — e.g. with the default 10 000-step goal, 3 big dots means 30 000 steps done, and a full ring of big dots means 100 000.
+Once the goal is reached, the dot at that position becomes a **milestone dot**: bigger, and colored with the single **Milestone Color**. The remaining dots keep tracking live progress toward the *next* milestone in the normal default/completed colors. This lets the same 10-dot ring encode up to 10× the daily goal — e.g. with the default 10 000-step goal, 3 big dots means 30 000 steps done, and a full ring of big dots means 100 000.
 
 ### Month (10–11 o'clock) — 4 dots, binary
 
@@ -86,7 +86,8 @@ Configured from the Pebble / Rebble phone app. All dot groups can be toggled on 
 
 | Section        | Setting                                  | Default        |
 | -------------- | ---------------------------------------- | -------------- |
-| Display        | Light theme (white background)           | Off            |
+| Display        | Theme (Dark / Light / Auto by time)      | Dark           |
+| Display        | Auto: light theme start / end hour       | 7 / 20         |
 | Display        | Binary dots LSB first                    | On             |
 | Display        | Hour ticks                               | Off            |
 | Display        | Battery / Steps / Date / Month / Weekday | All on         |
@@ -94,7 +95,8 @@ Configured from the Pebble / Rebble phone app. All dot groups can be toggled on 
 | Display        | Notification dot                         | Off            |
 | Display        | Heart rate / Activity dots               | On             |
 | Steps          | Daily step goal                          | 10 000         |
-| Steps          | Milestone color for dots 1-5 / 6-10      | Green / Cyan   |
+| Steps          | Dot default / completed color            | Light Gray / Cyan |
+| Steps          | Milestone color                          | Green          |
 | Clock Hands    | Hour hand color                          | Red            |
 | Clock Hands    | Minute hand color                        | White          |
 | Bluetooth      | Vibrate on disconnect                    | On             |
@@ -109,9 +111,11 @@ Configured from the Pebble / Rebble phone app. All dot groups can be toggled on 
 
 Available colors: Orange, Red, Green, Blue, Cyan, Yellow, Magenta, White, Light Gray, Pink, Purple.
 
-### Light theme
+HR thresholds 2–4 are automatically clamped to be no lower than the tier before them, so an inverted setting (e.g. Threshold 2 lower than Threshold 1) can't create a tier that never displays.
 
-Toggling "Light Theme" swaps the background to white and flips White <-> Black and Light Gray <-> Dark Gray wherever they'd otherwise vanish against the new background, so every other color setting keeps the same visual weight without needing to be reconfigured.
+### Theme
+
+**Dark** and **Light** force the background; **Auto** switches based on the current hour, using the configured start/end hour range (wraps past midnight if start > end). In Light theme, White flips to Black and Light Gray flips to Dark Gray wherever they'd otherwise vanish against the white background, so every other color setting keeps the same visual weight without needing to be reconfigured.
 
 ## Power
 
@@ -120,6 +124,23 @@ Toggling "Light Theme" swaps the background to white and flips White <-> Black a
 - Heart rate and activity update on health events only, not every tick
 - Canvas redraws only when display state changes
 - No system calls in the draw pass
+- Dot positions (all trig/`sin_lookup`/`cos_lookup` calls) are precomputed into a cache whenever geometry or dot-visibility settings change, never inside the draw pass itself
+
+## Architecture
+
+```
+src/c/
+  main.c              init/deinit, event handlers, AppMessage inbox — the coordinator
+  modules/
+    settings.{h,c}     Settings struct, persistence, HR threshold clamping
+    theme.{h,c}        color table, dark/light/auto theme state
+    health.{h,c}       step/HR/activity state from HealthService
+    layout.{h,c}       geometry + dot position cache
+  windows/
+    face_window.{h,c}  the watchface window: canvas, draw pass, draw-time-only state
+```
+
+Each module exposes only what other modules need through its header; internal state stays `static` inside the `.c` file (e.g. battery/notification/connection state lives only in `face_window.c`). `main.c` doesn't contain any drawing or health logic itself — it just wires services to module functions.
 
 ## Platforms
 

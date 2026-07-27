@@ -32,10 +32,33 @@ var clayConfig = [
     items: [
       { type: "heading", defaultValue: "Display" },
       {
-        type: "toggle",
-        messageKey: "LightTheme",
-        label: "Light Theme (white background)",
-        defaultValue: false,
+        type: "select",
+        messageKey: "ThemeMode",
+        label: "Theme",
+        defaultValue: 0,
+        options: [
+          { label: "Dark", value: 0 },
+          { label: "Light", value: 1 },
+          { label: "Auto (by time of day)", value: 2 },
+        ],
+      },
+      {
+        type: "slider",
+        messageKey: "LightStartHour",
+        label: "Auto: Light Theme Start Hour",
+        defaultValue: 7,
+        min: 0,
+        max: 23,
+        step: 1,
+      },
+      {
+        type: "slider",
+        messageKey: "LightEndHour",
+        label: "Auto: Light Theme End Hour",
+        defaultValue: 20,
+        min: 0,
+        max: 23,
+        step: 1,
       },
       {
         type: "toggle",
@@ -128,10 +151,11 @@ var clayConfig = [
       {
         type: "text",
         defaultValue:
-          "Each completed goal lights a bigger milestone dot (up to 10x goal). Dots 1-5 use the first color below, 6-10 use the second.",
+          "Each dot is 1/10th of the daily goal, and lights up as you walk. Once a full goal is completed, that dot gets bigger and switches to the Milestone Color — up to 10 milestones (10x goal) on the same ring.",
       },
-      colorSelect("OverGoalColor1", "Milestones 1-5 Color", 2),
-      colorSelect("OverGoalColor2", "Milestones 6-10 Color", 4),
+      colorSelect("StepDefaultColor", "Dot Default Color", 8),
+      colorSelect("StepCompletedColor", "Dot Completed Color", 4),
+      colorSelect("MilestoneColor", "Milestone Color", 2),
     ],
   },
 
@@ -191,7 +215,11 @@ var clayConfig = [
       { type: "heading", defaultValue: "Health" },
       colorSelect("HrColor", "Heart Rate Normal Color", 7),
       colorSelect("HrErrorColor", "Heart Rate Error Color", 6),
-      { type: "text", defaultValue: "Heart Rate Thresholds (low to high)" },
+      {
+        type: "text",
+        defaultValue:
+          "Heart Rate Thresholds (low to high). If a threshold is set below the one before it, the watch clamps it back up automatically.",
+      },
       {
         type: "slider",
         messageKey: "HrAlertBpm",
