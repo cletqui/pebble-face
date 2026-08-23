@@ -1,0 +1,2616 @@
+[2026-07-28 19:03:33.347] [info] Using configuration file /home/clet/.config/waybar/config.jsonc
+[2026-07-28 19:03:33.347] [info] Including resource file: ~/.config/waybar/modules.json
+[2026-07-28 19:03:33.347] [info] Including resource file: ~/.config/waybar/cookie-clicker/modules.json
+[2026-07-28 19:03:33.349] [info] Discovered appearance 'dark'
+[2026-07-28 19:03:33.357] [info] Using CSS file /home/clet/.config/waybar/style.css
+[2026-07-28 19:03:33.366] [info] Niri IPC starting
+[2026-07-28 19:03:33.513] [info] Found device AT Translated Set 2 keyboard at '/dev/input/event0'
+[2026-07-28 19:03:33.641] [info] Found device AT Translated Set 2 keyboard at '/dev/input/event0'
+Plugged
+[2026-07-28 19:03:33.863] [info] Bar configured (width: 2256, height: 48) for output: eDP-1
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:04:21.999] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 97 not found
+[2026-07-28 19:04:21.999] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 246 not found
+[2026-07-28 19:04:21.999] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 246 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:05:03.163] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:03.163] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:03.165] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:03.165] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:03.170] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:03.170] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:05:06.977] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:06.977] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:06.979] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:06.979] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:06.985] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:06.986] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+Plugged
+[2026-07-28 19:05:08.708] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:08.708] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:08.709] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:08.709] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:08.714] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:08.714] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:05:11.888] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:11.888] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:11.889] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:11.889] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:11.894] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:11.895] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:12.828] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:12.828] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:12.829] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:12.829] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:12.836] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:12.836] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:15.094] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:15.094] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:15.095] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:15.095] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:15.100] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:15.100] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:15.709] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:15.709] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:15.710] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:15.710] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:15.717] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:15.717] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:17.046] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:17.046] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:17.047] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:17.047] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:17.054] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:17.054] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:05:20.482] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:20.482] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:20.484] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:20.484] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:20.490] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:20.490] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:05:26.796] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:26.796] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:26.801] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:26.801] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:28.395] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:28.395] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:28.396] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:28.396] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:28.401] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:28.401] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:29.304] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:29.304] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:29.305] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:29.305] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:29.310] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:29.310] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:05:43.657] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:43.657] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:43.658] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:43.658] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:43.663] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:43.663] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:44.145] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:44.145] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:44.146] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:44.146] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-28 19:05:44.151] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-28 19:05:44.151] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:05:50.353] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 217 not found
+[2026-07-28 19:05:50.354] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 217 not found
+[2026-07-28 19:05:50.354] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 217 not found
+[2026-07-28 19:05:50.355] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 217 not found
+[2026-07-28 19:05:50.362] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 217 not found
+[2026-07-28 19:05:50.362] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 217 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:05:56.077] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 227 not found
+[2026-07-28 19:05:56.078] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 227 not found
+[2026-07-28 19:05:56.079] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 227 not found
+[2026-07-28 19:05:56.079] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 227 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:06:06.734] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:06:06.735] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:06:06.736] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:06:06.736] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:06:06.742] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:06:06.742] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:06:11.843] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 203 not found
+[2026-07-28 19:06:11.843] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 203 not found
+[2026-07-28 19:06:11.844] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 203 not found
+[2026-07-28 19:06:11.844] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 203 not found
+[2026-07-28 19:06:11.852] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 203 not found
+[2026-07-28 19:06:11.852] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 203 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:06:15.399] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 203 not found
+[2026-07-28 19:06:15.399] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 203 not found
+[2026-07-28 19:06:15.399] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 203 not found
+[2026-07-28 19:06:15.400] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 203 not found
+[2026-07-28 19:06:15.404] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 203 not found
+[2026-07-28 19:06:15.405] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 203 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:06:19.845] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 192 not found
+[2026-07-28 19:06:19.845] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 192 not found
+[2026-07-28 19:06:19.846] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 192 not found
+[2026-07-28 19:06:19.846] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 192 not found
+[2026-07-28 19:06:19.853] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 192 not found
+[2026-07-28 19:06:19.853] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 192 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:06:23.234] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 185 not found
+[2026-07-28 19:06:23.234] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 185 not found
+[2026-07-28 19:06:23.235] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 185 not found
+[2026-07-28 19:06:23.236] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 185 not found
+[2026-07-28 19:06:23.243] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 185 not found
+[2026-07-28 19:06:23.243] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 185 not found
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:06:27.112] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 180 not found
+[2026-07-28 19:06:27.112] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 180 not found
+[2026-07-28 19:06:27.113] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 180 not found
+[2026-07-28 19:06:27.113] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 180 not found
+[2026-07-28 19:06:27.120] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 180 not found
+[2026-07-28 19:06:27.120] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 180 not found
+[2026-07-28 19:06:28.789] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 180 not found
+[2026-07-28 19:06:28.789] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 180 not found
+[2026-07-28 19:06:28.791] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 180 not found
+[2026-07-28 19:06:28.791] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 180 not found
+[2026-07-28 19:06:28.796] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 180 not found
+[2026-07-28 19:06:28.796] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 180 not found
+[2026-07-28 19:06:32.363] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 173 not found
+[2026-07-28 19:06:32.363] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 173 not found
+[2026-07-28 19:06:32.364] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 173 not found
+[2026-07-28 19:06:32.364] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 173 not found
+[2026-07-28 19:06:32.372] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 173 not found
+[2026-07-28 19:06:32.372] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 173 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 19:06:35.261] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:35.261] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:35.262] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:35.262] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:35.269] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:35.269] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:37.593] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:37.593] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:37.594] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:37.594] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:37.599] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:37.599] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:39.849] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:39.849] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:39.850] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:39.850] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:39.857] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:39.857] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:40.887] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:40.887] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:40.894] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:40.894] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:40.899] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:40.899] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:46.079] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:46.079] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:46.080] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:46.080] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:46.085] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:46.085] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:47.510] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:47.510] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:47.511] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:47.511] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:47.517] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:47.517] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:49.103] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:49.103] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:49.103] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:49.104] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-28 19:06:49.108] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-28 19:06:49.108] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+Plugged
+[2026-07-28 19:06:54.434] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-28 19:06:54.434] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-28 19:06:54.435] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-28 19:06:54.435] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-28 19:06:54.443] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-28 19:06:54.444] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-28 19:06:58.599] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-28 19:06:58.599] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-28 19:06:58.600] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-28 19:06:58.600] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-28 19:06:58.606] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-28 19:06:58.606] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-28 19:06:59.501] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-28 19:06:59.501] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-28 19:06:59.502] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-28 19:06:59.502] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-28 19:06:59.508] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-28 19:06:59.508] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-28 19:07:00.855] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-28 19:07:00.856] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-28 19:07:00.857] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-28 19:07:00.857] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-28 19:07:00.862] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-28 19:07:00.863] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-28 19:07:01.980] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-28 19:07:01.981] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-28 19:07:01.982] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-28 19:07:01.982] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-28 19:07:01.988] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-28 19:07:01.988] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-28 19:07:06.493] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 137 not found
+[2026-07-28 19:07:06.493] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 137 not found
+[2026-07-28 19:07:06.494] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 137 not found
+[2026-07-28 19:07:06.494] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 137 not found
+[2026-07-28 19:07:06.501] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 137 not found
+[2026-07-28 19:07:06.501] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 137 not found
+[2026-07-28 19:07:07.163] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 137 not found
+[2026-07-28 19:07:07.163] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 137 not found
+[2026-07-28 19:07:07.164] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 137 not found
+[2026-07-28 19:07:07.165] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 137 not found
+[2026-07-28 19:07:07.169] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 137 not found
+[2026-07-28 19:07:07.170] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 137 not found
+[2026-07-28 19:07:11.225] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 112 not found
+[2026-07-28 19:07:11.225] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 112 not found
+[2026-07-28 19:07:11.226] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 112 not found
+[2026-07-28 19:07:11.226] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 112 not found
+[2026-07-28 19:07:11.234] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 112 not found
+[2026-07-28 19:07:11.234] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 112 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Not charging
+Not charging
+Not charging
+Not charging
+Not charging
+Not charging
+Not charging
+[2026-07-28 19:30:51.076] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 257 not found
+[2026-07-28 19:30:51.076] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 257 not found
+[2026-07-28 19:30:51.078] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 257 not found
+[2026-07-28 19:30:51.078] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 257 not found
+[2026-07-28 19:30:51.092] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 257 not found
+[2026-07-28 19:30:51.093] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 257 not found
+Not charging
+Not charging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-28 19:31:29.439] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 229 not found
+[2026-07-28 19:31:29.440] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 229 not found
+[2026-07-28 19:31:29.441] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 229 not found
+[2026-07-28 19:31:29.441] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 229 not found
+[2026-07-28 19:31:29.451] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 229 not found
+[2026-07-28 19:31:29.451] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 229 not found
+Discharging
+Discharging
+[2026-07-28 19:31:52.391] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 230 not found
+[2026-07-28 19:31:52.392] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 230 not found
+[2026-07-28 19:31:52.394] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 230 not found
+[2026-07-28 19:31:52.394] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 230 not found
+[2026-07-28 19:31:52.412] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 230 not found
+[2026-07-28 19:31:52.413] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 230 not found
+[2026-07-28 19:31:54.912] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 230 not found
+[2026-07-28 19:31:54.912] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 230 not found
+[2026-07-28 19:31:54.913] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 230 not found
+[2026-07-28 19:31:54.913] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 230 not found
+[2026-07-28 19:31:54.919] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 230 not found
+[2026-07-28 19:31:54.919] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 230 not found
+[2026-07-28 19:31:55.416] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 230 not found
+[2026-07-28 19:31:55.416] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 230 not found
+[2026-07-28 19:31:55.417] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 230 not found
+[2026-07-28 19:31:55.417] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 230 not found
+[2026-07-28 19:31:55.423] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 230 not found
+[2026-07-28 19:31:55.423] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 230 not found
+Discharging
+Discharging
+[2026-07-28 19:32:34.171] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 229 not found
+[2026-07-28 19:32:34.172] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 229 not found
+[2026-07-28 19:32:34.172] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 229 not found
+[2026-07-28 19:32:34.173] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 229 not found
+[2026-07-28 19:32:34.184] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 229 not found
+[2026-07-28 19:32:34.184] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 229 not found
+Discharging
+[2026-07-28 19:32:50.969] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 160 not found
+[2026-07-28 19:32:50.970] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 160 not found
+[2026-07-28 19:32:50.971] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 160 not found
+[2026-07-28 19:32:50.971] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 160 not found
+[2026-07-28 19:32:50.980] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 160 not found
+[2026-07-28 19:32:50.980] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 160 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-28 19:38:59.032] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 211 not found
+[2026-07-28 19:38:59.033] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 211 not found
+[2026-07-28 19:38:59.034] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 211 not found
+[2026-07-28 19:38:59.035] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 211 not found
+Discharging
+[2026-07-28 19:38:59.050] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 211 not found
+[2026-07-28 19:38:59.050] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 211 not found
+Discharging
+Discharging
+[2026-07-28 19:39:47.795] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 195 not found
+[2026-07-28 19:39:47.796] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 195 not found
+[2026-07-28 19:39:47.797] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 195 not found
+[2026-07-28 19:39:47.797] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 195 not found
+[2026-07-28 19:39:47.804] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 195 not found
+[2026-07-28 19:39:47.804] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 195 not found
+Discharging
+Discharging
+[2026-07-28 19:40:04.765] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 160 not found
+[2026-07-28 19:40:04.765] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 160 not found
+[2026-07-28 19:40:04.766] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 160 not found
+[2026-07-28 19:40:04.766] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 160 not found
+[2026-07-28 19:40:04.773] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 160 not found
+[2026-07-28 19:40:04.773] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 160 not found
+[2026-07-28 19:40:07.435] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 160 not found
+[2026-07-28 19:40:07.436] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 160 not found
+[2026-07-28 19:40:07.436] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 160 not found
+[2026-07-28 19:40:07.436] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 160 not found
+[2026-07-28 19:40:07.442] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 160 not found
+[2026-07-28 19:40:07.442] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 160 not found
+[2026-07-28 19:40:09.422] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 160 not found
+[2026-07-28 19:40:09.422] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 160 not found
+[2026-07-28 19:40:09.422] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 160 not found
+[2026-07-28 19:40:09.423] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 160 not found
+[2026-07-28 19:40:09.429] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 160 not found
+[2026-07-28 19:40:09.429] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 160 not found
+Discharging
+Discharging
+[2026-07-28 19:40:44.490] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 213 not found
+[2026-07-28 19:40:44.490] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 213 not found
+[2026-07-28 19:40:44.491] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 213 not found
+[2026-07-28 19:40:44.491] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 213 not found
+[2026-07-28 19:40:44.499] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 213 not found
+[2026-07-28 19:40:44.499] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 213 not found
+[2026-07-28 19:40:49.315] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 141 not found
+[2026-07-28 19:40:49.316] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 141 not found
+[2026-07-28 19:40:49.317] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 141 not found
+[2026-07-28 19:40:49.317] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 141 not found
+[2026-07-28 19:40:49.328] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 141 not found
+[2026-07-28 19:40:49.328] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 141 not found
+Discharging
+[2026-07-28 19:41:17.582] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 242 not found
+[2026-07-28 19:41:17.582] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 242 not found
+[2026-07-28 19:41:17.585] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 242 not found
+[2026-07-28 19:41:17.585] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 242 not found
+[2026-07-28 19:41:17.601] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 242 not found
+[2026-07-28 19:41:17.602] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 242 not found
+Discharging
+Discharging
+[2026-07-28 19:41:38.224] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 123 not found
+[2026-07-28 19:41:38.224] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 123 not found
+[2026-07-28 19:41:38.226] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 123 not found
+[2026-07-28 19:41:38.226] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 123 not found
+[2026-07-28 19:41:38.238] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 123 not found
+[2026-07-28 19:41:38.239] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 123 not found
+[2026-07-28 19:41:44.759] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 123 not found
+[2026-07-28 19:41:44.759] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 123 not found
+[2026-07-28 19:41:44.759] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 123 not found
+[2026-07-28 19:41:44.760] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 123 not found
+[2026-07-28 19:41:44.766] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 123 not found
+[2026-07-28 19:41:44.766] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 123 not found
+[2026-07-28 19:41:51.192] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-28 19:41:51.193] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-28 19:41:51.194] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-28 19:41:51.194] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-28 19:41:51.208] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-28 19:41:51.208] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-28 19:42:37.823] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-28 19:42:37.823] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-28 19:42:37.823] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-28 19:42:37.823] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-28 19:42:37.831] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-28 19:42:37.831] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-28 19:42:40.152] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-28 19:42:40.152] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-28 19:42:40.153] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-28 19:42:40.153] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-28 19:42:40.160] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-28 19:42:40.160] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-28 19:42:50.352] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 150 not found
+[2026-07-28 19:42:50.352] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 150 not found
+[2026-07-28 19:42:50.353] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 150 not found
+[2026-07-28 19:42:50.353] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 150 not found
+[2026-07-28 19:42:50.362] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 150 not found
+[2026-07-28 19:42:50.363] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 150 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-28 19:43:53.512] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:43:53.513] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:43:53.523] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:43:53.523] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+Discharging
+[2026-07-28 19:43:59.470] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:43:59.470] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:43:59.472] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:43:59.472] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:43:59.484] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:43:59.484] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:00.868] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:00.868] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:00.870] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:00.871] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:00.882] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:00.882] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:19.101] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:19.101] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:19.102] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:19.102] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:19.109] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:19.109] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+Discharging
+Discharging
+[2026-07-28 19:44:44.359] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:44.359] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:44.364] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:44.365] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:46.227] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:46.227] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:46.230] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:46.231] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:46.243] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:46.244] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:47.749] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:47.749] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:47.751] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:47.751] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:47.764] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:47.765] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:48.582] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:48.583] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:48.585] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:48.585] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:48.597] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:48.598] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:49.281] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:49.282] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:49.285] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:49.285] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:49.298] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:49.298] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:53.375] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:53.375] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:53.377] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:53.378] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:53.389] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 130 not found
+[2026-07-28 19:44:53.390] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 130 not found
+[2026-07-28 19:44:59.590] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 176 not found
+[2026-07-28 19:44:59.590] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 176 not found
+[2026-07-28 19:44:59.591] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 176 not found
+[2026-07-28 19:44:59.591] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 176 not found
+[2026-07-28 19:44:59.624] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 176 not found
+[2026-07-28 19:44:59.624] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 176 not found
+Discharging
+Discharging
+Discharging
+[2026-07-28 19:46:00.100] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-28 19:46:00.101] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-28 19:46:00.102] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-28 19:46:00.102] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-28 19:46:00.116] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-28 19:46:00.116] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+Discharging
+Discharging
+Discharging
+[2026-07-28 19:46:40.697] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-28 19:46:40.697] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-28 19:46:40.699] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-28 19:46:40.699] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-28 19:46:40.709] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-28 19:46:40.710] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-28 19:46:41.368] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-28 19:46:41.368] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-28 19:46:41.369] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-28 19:46:41.369] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-28 19:46:41.375] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-28 19:46:41.375] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+Discharging
+[2026-07-28 19:47:31.836] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-28 19:47:31.836] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-28 19:47:31.837] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-28 19:47:31.838] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-28 19:47:31.848] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-28 19:47:31.849] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+Discharging
+Discharging
+[2026-07-28 19:47:43.449] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:47:43.449] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:47:43.451] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:47:43.451] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:47:43.463] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:47:43.464] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+Discharging
+[2026-07-28 19:48:32.963] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:48:32.964] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:48:32.965] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:48:32.965] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:48:32.976] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:48:32.977] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+Discharging
+Discharging
+[2026-07-28 19:48:53.270] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:48:53.271] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:48:53.280] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:48:53.281] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:48:53.292] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:48:53.292] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:48:53.891] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:48:53.891] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:48:53.893] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:48:53.893] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:48:53.904] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:48:53.904] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:48:54.093] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:48:54.093] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:48:54.095] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:48:54.095] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:48:54.106] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 215 not found
+[2026-07-28 19:48:54.107] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 215 not found
+[2026-07-28 19:48:54.223] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 202 not found
+[2026-07-28 19:48:54.224] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 202 not found
+[2026-07-28 19:48:54.225] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 202 not found
+[2026-07-28 19:48:54.225] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 202 not found
+[2026-07-28 19:48:54.236] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 202 not found
+[2026-07-28 19:48:54.236] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 202 not found
+Discharging
+[2026-07-28 19:49:07.819] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 202 not found
+[2026-07-28 19:49:07.820] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 202 not found
+[2026-07-28 19:49:07.820] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 202 not found
+[2026-07-28 19:49:07.821] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 202 not found
+[2026-07-28 19:49:07.830] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 202 not found
+[2026-07-28 19:49:07.831] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 202 not found
+[2026-07-28 19:49:08.532] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 199 not found
+[2026-07-28 19:49:08.533] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 199 not found
+[2026-07-28 19:49:08.534] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 199 not found
+[2026-07-28 19:49:08.534] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 199 not found
+[2026-07-28 19:49:08.544] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 199 not found
+[2026-07-28 19:49:08.544] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 199 not found
+[2026-07-28 19:49:12.086] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 199 not found
+[2026-07-28 19:49:12.086] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 199 not found
+[2026-07-28 19:49:12.088] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 199 not found
+[2026-07-28 19:49:12.088] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 199 not found
+[2026-07-28 19:49:12.099] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 199 not found
+[2026-07-28 19:49:12.099] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 199 not found
+[2026-07-28 19:49:13.137] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 199 not found
+[2026-07-28 19:49:13.137] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 199 not found
+[2026-07-28 19:49:13.140] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 199 not found
+[2026-07-28 19:49:13.140] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 199 not found
+[2026-07-28 19:49:13.152] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 199 not found
+[2026-07-28 19:49:13.152] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 199 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-28 19:50:51.939] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 259 not found
+[2026-07-28 19:50:51.939] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 259 not found
+[2026-07-28 19:50:51.940] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 259 not found
+[2026-07-28 19:50:51.940] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 259 not found
+[2026-07-28 19:50:51.946] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 259 not found
+[2026-07-28 19:50:51.946] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 259 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Charging
+Charging
+Charging
+Charging
+Charging
+Charging
+Charging
+Charging
+Charging
+Charging
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 20:22:50.090] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 75 not found
+[2026-07-28 20:22:50.090] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 75 not found
+[2026-07-28 20:22:50.090] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 75 not found
+[2026-07-28 20:22:50.090] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 75 not found
+[2026-07-28 20:22:50.098] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 75 not found
+[2026-07-28 20:22:50.098] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 75 not found
+Plugged
+Plugged
+[2026-07-28 20:24:23.985] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 259 not found
+[2026-07-28 20:24:23.985] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 259 not found
+[2026-07-28 20:24:23.987] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 259 not found
+[2026-07-28 20:24:23.987] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 259 not found
+[2026-07-28 20:24:23.992] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 259 not found
+[2026-07-28 20:24:23.992] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 259 not found
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 20:26:58.381] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 89 not found
+[2026-07-28 20:26:58.381] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 89 not found
+[2026-07-28 20:26:58.381] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 89 not found
+[2026-07-28 20:26:58.381] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 89 not found
+[2026-07-28 20:26:58.389] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 89 not found
+[2026-07-28 20:26:58.389] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 89 not found
+[2026-07-28 20:26:58.389] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 89 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-28 20:32:32.035] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 89 not found
+[2026-07-28 20:32:32.035] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 89 not found
+Plugged
+[2026-07-28 20:32:38.148] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 89 not found
+[2026-07-28 20:32:38.148] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 89 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-29 00:57:04.364] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 78 not found
+[2026-07-29 00:57:04.367] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 78 not found
+[2026-07-29 00:57:04.368] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 76 not found
+[2026-07-29 00:57:04.368] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 76 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-29 00:57:32.611] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 88 not found
+[2026-07-29 00:57:32.611] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 88 not found
+[2026-07-29 00:57:32.612] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 88 not found
+[2026-07-29 00:57:32.612] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 88 not found
+[2026-07-29 00:57:32.618] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 88 not found
+[2026-07-29 00:57:32.619] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 88 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-29 00:57:34.961] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 84 not found
+[2026-07-29 00:57:34.961] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 84 not found
+[2026-07-29 00:57:34.962] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 84 not found
+[2026-07-29 00:57:34.962] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 84 not found
+[2026-07-29 00:57:34.970] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 84 not found
+[2026-07-29 00:57:34.970] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 84 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-29 00:57:40.824] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 84 not found
+[2026-07-29 00:57:40.824] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 84 not found
+[2026-07-29 00:57:40.825] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 84 not found
+[2026-07-29 00:57:40.825] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 84 not found
+[2026-07-29 00:57:40.830] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 84 not found
+[2026-07-29 00:57:40.830] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 84 not found
+[2026-07-29 00:57:41.851] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 84 not found
+[2026-07-29 00:57:41.851] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 84 not found
+[2026-07-29 00:57:41.852] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 84 not found
+[2026-07-29 00:57:41.852] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 84 not found
+[2026-07-29 00:57:41.857] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 84 not found
+[2026-07-29 00:57:41.857] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 84 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-29 00:57:47.016] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 173 not found
+[2026-07-29 00:57:47.016] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 173 not found
+[2026-07-29 00:57:47.017] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 173 not found
+[2026-07-29 00:57:47.017] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 173 not found
+[2026-07-29 00:57:47.026] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 173 not found
+[2026-07-29 00:57:47.026] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 173 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-29 00:57:52.419] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 229 not found
+[2026-07-29 00:57:52.419] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 229 not found
+[2026-07-29 00:57:52.420] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 229 not found
+[2026-07-29 00:57:52.420] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 229 not found
+[2026-07-29 00:57:52.428] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 229 not found
+[2026-07-29 00:57:52.428] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 229 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-29 00:57:56.159] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 229 not found
+[2026-07-29 00:57:56.159] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 229 not found
+[2026-07-29 00:57:56.160] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 229 not found
+[2026-07-29 00:57:56.161] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 229 not found
+[2026-07-29 00:57:56.166] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 229 not found
+[2026-07-29 00:57:56.166] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 229 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+[2026-07-29 00:58:16.934] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 176 not found
+[2026-07-29 00:58:16.934] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 176 not found
+[2026-07-29 00:58:16.935] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 176 not found
+[2026-07-29 00:58:16.935] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 176 not found
+[2026-07-29 00:58:16.943] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 176 not found
+[2026-07-29 00:58:16.943] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 176 not found
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Plugged
+Not charging
+Not charging
+Discharging
+Discharging
+Discharging
+[2026-07-29 00:58:23.295] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 176 not found
+[2026-07-29 00:58:23.295] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 176 not found
+[2026-07-29 00:58:23.297] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 176 not found
+[2026-07-29 00:58:23.297] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 176 not found
+[2026-07-29 00:58:23.308] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 176 not found
+[2026-07-29 00:58:23.308] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 176 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 00:58:47.670] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 227 not found
+[2026-07-29 00:58:47.670] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 227 not found
+[2026-07-29 00:58:47.671] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 227 not found
+[2026-07-29 00:58:47.671] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 227 not found
+[2026-07-29 00:58:47.679] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 227 not found
+[2026-07-29 00:58:47.679] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 227 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 00:58:48.619] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 227 not found
+[2026-07-29 00:58:48.619] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 227 not found
+[2026-07-29 00:58:48.621] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 227 not found
+[2026-07-29 00:58:48.621] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 227 not found
+[2026-07-29 00:58:48.626] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 227 not found
+[2026-07-29 00:58:48.626] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 227 not found
+Discharging
+Discharging
+Discharging
+[2026-07-29 00:58:51.904] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 227 not found
+[2026-07-29 00:58:51.904] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 227 not found
+[2026-07-29 00:58:51.905] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 227 not found
+[2026-07-29 00:58:51.905] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 227 not found
+[2026-07-29 00:58:51.916] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 227 not found
+[2026-07-29 00:58:51.916] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 227 not found
+[2026-07-29 00:58:54.104] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 227 not found
+[2026-07-29 00:58:54.104] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 227 not found
+[2026-07-29 00:58:54.105] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 227 not found
+[2026-07-29 00:58:54.105] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 227 not found
+[2026-07-29 00:58:54.116] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 227 not found
+[2026-07-29 00:58:54.116] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 227 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 00:58:59.627] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-29 00:58:59.627] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-29 00:58:59.629] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-29 00:58:59.629] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-29 00:58:59.640] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-29 00:58:59.641] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-29 00:59:25.889] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-29 00:59:25.889] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-29 00:59:25.899] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 146 not found
+[2026-07-29 00:59:25.899] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 146 not found
+[2026-07-29 00:59:44.617] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 137 not found
+[2026-07-29 00:59:44.618] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 137 not found
+[2026-07-29 00:59:44.620] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 137 not found
+[2026-07-29 00:59:44.620] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 137 not found
+[2026-07-29 00:59:44.636] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 137 not found
+[2026-07-29 00:59:44.636] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 137 not found
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:01:36.762] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 180 not found
+[2026-07-29 01:01:36.762] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 180 not found
+[2026-07-29 01:01:36.763] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 180 not found
+[2026-07-29 01:01:36.764] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 180 not found
+[2026-07-29 01:01:36.780] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 180 not found
+[2026-07-29 01:01:36.780] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 180 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:01:39.164] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 180 not found
+[2026-07-29 01:01:39.164] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 180 not found
+[2026-07-29 01:01:39.170] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 180 not found
+[2026-07-29 01:01:39.170] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 180 not found
+[2026-07-29 01:01:40.384] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 180 not found
+[2026-07-29 01:01:40.384] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 180 not found
+[2026-07-29 01:01:40.386] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 180 not found
+[2026-07-29 01:01:40.386] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 180 not found
+[2026-07-29 01:01:40.396] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 180 not found
+[2026-07-29 01:01:40.396] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 180 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:01:53.713] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 01:01:53.713] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 01:01:53.716] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 01:01:53.716] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 01:01:53.731] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 01:01:53.731] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:02:01.140] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 123 not found
+[2026-07-29 01:02:01.140] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 123 not found
+[2026-07-29 01:02:01.142] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 123 not found
+[2026-07-29 01:02:01.142] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 123 not found
+[2026-07-29 01:02:01.151] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 123 not found
+[2026-07-29 01:02:01.151] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 123 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:02:02.705] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 123 not found
+[2026-07-29 01:02:02.705] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 123 not found
+[2026-07-29 01:02:02.705] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 123 not found
+[2026-07-29 01:02:02.705] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 123 not found
+[2026-07-29 01:02:02.712] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 123 not found
+[2026-07-29 01:02:02.712] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 123 not found
+Discharging
+[2026-07-29 01:02:08.773] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 123 not found
+[2026-07-29 01:02:08.774] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 123 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:02:25.051] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 195 not found
+[2026-07-29 01:02:25.051] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 195 not found
+[2026-07-29 01:02:25.055] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 195 not found
+[2026-07-29 01:02:25.055] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 195 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:02:29.741] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 217 not found
+[2026-07-29 01:02:29.741] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 217 not found
+[2026-07-29 01:02:29.742] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 217 not found
+[2026-07-29 01:02:29.742] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 217 not found
+[2026-07-29 01:02:29.751] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 217 not found
+[2026-07-29 01:02:29.751] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 217 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:02:41.757] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 242 not found
+[2026-07-29 01:02:41.758] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 242 not found
+[2026-07-29 01:02:41.759] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 242 not found
+[2026-07-29 01:02:41.759] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 242 not found
+[2026-07-29 01:02:41.775] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 242 not found
+[2026-07-29 01:02:41.775] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 242 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:02:45.093] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 141 not found
+[2026-07-29 01:02:45.093] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 141 not found
+[2026-07-29 01:02:45.093] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 141 not found
+[2026-07-29 01:02:45.093] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 141 not found
+[2026-07-29 01:02:45.103] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 141 not found
+[2026-07-29 01:02:45.103] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 141 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:02:47.240] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 141 not found
+[2026-07-29 01:02:47.240] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 141 not found
+[2026-07-29 01:02:47.241] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 141 not found
+[2026-07-29 01:02:47.241] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 141 not found
+[2026-07-29 01:02:47.247] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 141 not found
+[2026-07-29 01:02:47.248] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 141 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:03:01.198] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 141 not found
+[2026-07-29 01:03:01.199] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 141 not found
+[2026-07-29 01:03:01.200] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 141 not found
+[2026-07-29 01:03:01.200] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 141 not found
+[2026-07-29 01:03:01.206] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 141 not found
+[2026-07-29 01:03:01.206] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 141 not found
+[2026-07-29 01:03:03.602] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 141 not found
+[2026-07-29 01:03:03.602] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 141 not found
+[2026-07-29 01:03:03.602] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 141 not found
+[2026-07-29 01:03:03.603] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 141 not found
+[2026-07-29 01:03:03.609] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 141 not found
+[2026-07-29 01:03:03.609] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 141 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:03:10.035] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 203 not found
+[2026-07-29 01:03:10.035] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 203 not found
+[2026-07-29 01:03:10.036] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 203 not found
+[2026-07-29 01:03:10.036] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 203 not found
+[2026-07-29 01:03:10.046] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 203 not found
+[2026-07-29 01:03:10.046] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 203 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:03:27.061] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 203 not found
+[2026-07-29 01:03:27.061] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 203 not found
+[2026-07-29 01:03:27.064] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 203 not found
+[2026-07-29 01:03:27.064] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 203 not found
+[2026-07-29 01:03:27.076] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 203 not found
+[2026-07-29 01:03:27.077] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 203 not found
+[2026-07-29 01:03:30.361] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 203 not found
+[2026-07-29 01:03:30.362] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 203 not found
+[2026-07-29 01:03:30.363] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 203 not found
+[2026-07-29 01:03:30.363] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 203 not found
+[2026-07-29 01:03:30.376] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 203 not found
+[2026-07-29 01:03:30.377] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 203 not found
+[2026-07-29 01:03:42.742] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 213 not found
+[2026-07-29 01:03:42.743] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 213 not found
+[2026-07-29 01:03:42.744] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 213 not found
+[2026-07-29 01:03:42.744] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 213 not found
+[2026-07-29 01:03:42.758] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 213 not found
+[2026-07-29 01:03:42.758] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 213 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:03:47.954] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-29 01:03:47.955] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-29 01:03:47.955] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-29 01:03:47.956] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-29 01:03:47.963] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-29 01:03:47.964] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:03:57.095] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-29 01:03:57.096] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-29 01:03:57.097] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-29 01:03:57.098] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-29 01:03:57.109] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-29 01:03:57.109] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-29 01:03:58.772] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-29 01:03:58.772] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-29 01:03:58.774] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-29 01:03:58.774] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-29 01:03:58.787] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-29 01:03:58.787] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-29 01:03:59.840] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-29 01:03:59.840] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-29 01:03:59.842] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-29 01:03:59.842] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-29 01:03:59.855] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-29 01:03:59.855] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-29 01:04:01.151] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-29 01:04:01.151] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-29 01:04:01.153] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-29 01:04:01.153] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+[2026-07-29 01:04:01.163] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 168 not found
+[2026-07-29 01:04:01.164] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 168 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:04:03.977] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 149 not found
+[2026-07-29 01:04:03.977] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 149 not found
+[2026-07-29 01:04:03.978] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 149 not found
+[2026-07-29 01:04:03.978] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 149 not found
+[2026-07-29 01:04:03.989] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 149 not found
+[2026-07-29 01:04:03.989] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 149 not found
+[2026-07-29 01:04:13.798] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 160 not found
+[2026-07-29 01:04:13.798] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 160 not found
+[2026-07-29 01:04:13.799] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 160 not found
+[2026-07-29 01:04:13.799] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 160 not found
+[2026-07-29 01:04:13.808] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 160 not found
+[2026-07-29 01:04:13.809] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 160 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:21:26.373] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 112 not found
+[2026-07-29 01:21:26.374] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 112 not found
+[2026-07-29 01:21:26.375] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 112 not found
+[2026-07-29 01:21:26.375] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 112 not found
+[2026-07-29 01:21:26.388] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 112 not found
+[2026-07-29 01:21:26.388] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 112 not found
+Discharging
+Discharging
+[2026-07-29 01:23:07.472] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 230 not found
+[2026-07-29 01:23:07.472] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 230 not found
+[2026-07-29 01:23:07.473] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 230 not found
+[2026-07-29 01:23:07.473] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 230 not found
+[2026-07-29 01:23:07.491] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 230 not found
+[2026-07-29 01:23:07.492] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 230 not found
+[2026-07-29 01:23:10.167] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 230 not found
+[2026-07-29 01:23:10.167] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 230 not found
+[2026-07-29 01:23:10.168] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 230 not found
+[2026-07-29 01:23:10.169] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 230 not found
+[2026-07-29 01:23:10.180] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 230 not found
+[2026-07-29 01:23:10.180] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 230 not found
+Discharging
+[2026-07-29 01:24:09.957] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 112 not found
+[2026-07-29 01:24:09.957] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 112 not found
+[2026-07-29 01:24:09.958] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 112 not found
+[2026-07-29 01:24:09.958] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 112 not found
+[2026-07-29 01:24:09.965] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 112 not found
+[2026-07-29 01:24:09.965] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 112 not found
+Discharging
+Discharging
+[2026-07-29 01:25:55.610] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-29 01:25:55.610] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-29 01:25:55.612] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-29 01:25:55.612] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-29 01:25:55.626] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-29 01:25:55.626] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-29 01:26:00.849] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-29 01:26:00.849] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-29 01:26:00.851] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-29 01:26:00.851] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+[2026-07-29 01:26:00.865] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 156 not found
+[2026-07-29 01:26:00.865] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 156 not found
+Discharging
+Discharging
+[2026-07-29 01:28:18.593] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 192 not found
+[2026-07-29 01:28:18.594] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 192 not found
+[2026-07-29 01:28:18.595] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 192 not found
+[2026-07-29 01:28:18.596] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 192 not found
+[2026-07-29 01:28:18.614] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 192 not found
+[2026-07-29 01:28:18.614] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 192 not found
+[2026-07-29 01:28:20.263] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 192 not found
+[2026-07-29 01:28:20.263] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 192 not found
+[2026-07-29 01:28:20.265] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 192 not found
+[2026-07-29 01:28:20.265] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 192 not found
+[2026-07-29 01:28:20.277] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 192 not found
+[2026-07-29 01:28:20.277] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 192 not found
+Discharging
+Discharging
+[2026-07-29 01:30:38.887] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-29 01:30:38.888] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-29 01:30:38.889] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-29 01:30:38.889] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-29 01:30:38.907] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 86 not found
+[2026-07-29 01:30:38.908] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 86 not found
+[2026-07-29 01:30:41.298] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 248 not found
+[2026-07-29 01:30:41.298] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 248 not found
+[2026-07-29 01:30:41.299] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 248 not found
+[2026-07-29 01:30:41.299] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 248 not found
+[2026-07-29 01:30:41.306] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 248 not found
+[2026-07-29 01:30:41.306] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 248 not found
+Discharging
+[2026-07-29 01:31:26.202] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 150 not found
+[2026-07-29 01:31:26.202] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 150 not found
+[2026-07-29 01:31:26.203] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 150 not found
+[2026-07-29 01:31:26.203] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 150 not found
+[2026-07-29 01:31:26.211] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 150 not found
+[2026-07-29 01:31:26.212] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 150 not found
+[2026-07-29 01:31:28.730] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 150 not found
+[2026-07-29 01:31:28.730] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 150 not found
+[2026-07-29 01:31:28.731] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 150 not found
+[2026-07-29 01:31:28.732] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 150 not found
+[2026-07-29 01:31:28.737] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 150 not found
+[2026-07-29 01:31:28.738] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 150 not found
+[2026-07-29 01:31:36.162] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 150 not found
+[2026-07-29 01:31:36.162] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 150 not found
+[2026-07-29 01:31:36.165] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 150 not found
+[2026-07-29 01:31:36.165] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 150 not found
+[2026-07-29 01:31:36.176] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 150 not found
+[2026-07-29 01:31:36.177] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 150 not found
+Discharging
+Discharging
+[2026-07-29 01:33:19.877] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 150 not found
+[2026-07-29 01:33:19.877] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 150 not found
+[2026-07-29 01:33:19.880] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 150 not found
+[2026-07-29 01:33:19.880] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 150 not found
+[2026-07-29 01:33:19.892] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 150 not found
+[2026-07-29 01:33:19.893] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 150 not found
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:36:06.944] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 199 not found
+[2026-07-29 01:36:06.944] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 199 not found
+[2026-07-29 01:36:06.944] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 199 not found
+[2026-07-29 01:36:06.945] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 199 not found
+[2026-07-29 01:36:06.959] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 199 not found
+[2026-07-29 01:36:06.959] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 199 not found
+[2026-07-29 01:36:09.008] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 199 not found
+[2026-07-29 01:36:09.009] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 199 not found
+[2026-07-29 01:36:09.010] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 199 not found
+[2026-07-29 01:36:09.010] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 199 not found
+[2026-07-29 01:36:09.025] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 199 not found
+[2026-07-29 01:36:09.026] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 199 not found
+[2026-07-29 01:36:35.350] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:35.351] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:35.351] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:35.352] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:35.365] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:35.366] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:35.829] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:35.830] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:35.835] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:35.835] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:35.845] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:35.845] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:40.583] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:40.584] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:40.586] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:40.586] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:40.599] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:40.599] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:42.971] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:42.971] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:42.975] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:42.976] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:42.984] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:42.984] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:43.825] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:43.826] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:43.830] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:43.830] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:43.844] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:43.844] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+Discharging
+[2026-07-29 01:36:45.900] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:45.900] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:45.901] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:45.901] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:45.910] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:45.910] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:46.832] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:46.832] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:46.833] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:46.833] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:46.840] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:46.840] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:47.621] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:47.621] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:47.622] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:47.622] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:47.628] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:47.629] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:51.500] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:51.500] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:51.502] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:51.502] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:51.510] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 100 not found
+[2026-07-29 01:36:51.510] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 100 not found
+[2026-07-29 01:36:58.199] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 237 not found
+[2026-07-29 01:36:58.199] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 237 not found
+[2026-07-29 01:36:58.200] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 237 not found
+[2026-07-29 01:36:58.200] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 237 not found
+[2026-07-29 01:36:58.215] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 237 not found
+[2026-07-29 01:36:58.216] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 237 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:44:17.516] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 207 not found
+[2026-07-29 01:44:17.517] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 207 not found
+[2026-07-29 01:44:17.517] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 207 not found
+[2026-07-29 01:44:17.518] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 207 not found
+[2026-07-29 01:44:17.533] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 207 not found
+[2026-07-29 01:44:17.534] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 207 not found
+Discharging
+Discharging
+[2026-07-29 01:45:57.538] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 207 not found
+[2026-07-29 01:45:57.539] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 207 not found
+[2026-07-29 01:45:57.543] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 207 not found
+[2026-07-29 01:45:57.543] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 207 not found
+[2026-07-29 01:45:57.559] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 207 not found
+[2026-07-29 01:45:57.559] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 207 not found
+[2026-07-29 01:46:03.192] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 207 not found
+[2026-07-29 01:46:03.193] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 207 not found
+[2026-07-29 01:46:03.194] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 207 not found
+[2026-07-29 01:46:03.194] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 207 not found
+[2026-07-29 01:46:03.206] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 207 not found
+[2026-07-29 01:46:03.206] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 207 not found
+[2026-07-29 01:46:11.010] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 221 not found
+[2026-07-29 01:46:11.010] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 221 not found
+[2026-07-29 01:46:16.266] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 126 not found
+[2026-07-29 01:46:16.267] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 126 not found
+[2026-07-29 01:46:16.272] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 126 not found
+[2026-07-29 01:46:16.272] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 126 not found
+[2026-07-29 01:46:16.287] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 126 not found
+[2026-07-29 01:46:16.287] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 126 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:51:18.936] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 207 not found
+[2026-07-29 01:51:18.936] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 207 not found
+[2026-07-29 01:51:18.937] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 207 not found
+[2026-07-29 01:51:18.937] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 207 not found
+[2026-07-29 01:51:18.949] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 207 not found
+[2026-07-29 01:51:18.950] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 207 not found
+[2026-07-29 01:51:33.407] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 126 not found
+[2026-07-29 01:51:33.407] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 126 not found
+[2026-07-29 01:51:33.408] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 126 not found
+[2026-07-29 01:51:33.408] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 126 not found
+[2026-07-29 01:51:33.420] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 126 not found
+[2026-07-29 01:51:33.421] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 126 not found
+Discharging
+[2026-07-29 01:52:13.837] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 126 not found
+[2026-07-29 01:52:13.838] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 126 not found
+[2026-07-29 01:52:13.841] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 126 not found
+[2026-07-29 01:52:13.841] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 126 not found
+[2026-07-29 01:52:13.857] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 126 not found
+[2026-07-29 01:52:13.858] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 126 not found
+[2026-07-29 01:52:19.036] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 126 not found
+[2026-07-29 01:52:19.037] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 126 not found
+[2026-07-29 01:52:19.039] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 126 not found
+[2026-07-29 01:52:19.039] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 126 not found
+[2026-07-29 01:52:19.052] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 126 not found
+[2026-07-29 01:52:19.053] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 126 not found
+[2026-07-29 01:52:20.198] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 126 not found
+[2026-07-29 01:52:20.199] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 126 not found
+[2026-07-29 01:52:20.201] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 126 not found
+[2026-07-29 01:52:20.202] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 126 not found
+[2026-07-29 01:52:20.214] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 126 not found
+[2026-07-29 01:52:20.214] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 126 not found
+[2026-07-29 01:52:35.928] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 207 not found
+[2026-07-29 01:52:35.929] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 207 not found
+[2026-07-29 01:52:35.930] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 207 not found
+[2026-07-29 01:52:35.931] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 207 not found
+[2026-07-29 01:52:35.947] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 207 not found
+[2026-07-29 01:52:35.948] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 207 not found
+Discharging
+[2026-07-29 01:53:01.904] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 220 not found
+[2026-07-29 01:53:01.905] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 220 not found
+[2026-07-29 01:53:01.906] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 220 not found
+[2026-07-29 01:53:01.906] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 220 not found
+[2026-07-29 01:53:01.920] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 220 not found
+[2026-07-29 01:53:01.921] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 220 not found
+[2026-07-29 01:53:23.000] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 105 not found
+[2026-07-29 01:53:23.001] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 105 not found
+[2026-07-29 01:53:23.002] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 105 not found
+[2026-07-29 01:53:23.003] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 105 not found
+[2026-07-29 01:53:23.010] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 105 not found
+[2026-07-29 01:53:23.010] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 105 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 01:56:21.374] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 220 not found
+[2026-07-29 01:56:21.375] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 220 not found
+[2026-07-29 01:56:21.375] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 220 not found
+[2026-07-29 01:56:21.376] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 220 not found
+[2026-07-29 01:56:21.390] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 220 not found
+[2026-07-29 01:56:21.391] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 220 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 02:03:57.508] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 116 not found
+[2026-07-29 02:03:57.509] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 116 not found
+[2026-07-29 02:03:57.510] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 116 not found
+[2026-07-29 02:03:57.510] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 116 not found
+[2026-07-29 02:03:57.517] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 116 not found
+[2026-07-29 02:03:57.518] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 116 not found
+Discharging
+Discharging
+[2026-07-29 02:03:58.954] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 269 not found
+[2026-07-29 02:03:58.954] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 269 not found
+[2026-07-29 02:03:58.957] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 269 not found
+[2026-07-29 02:03:58.958] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 269 not found
+[2026-07-29 02:03:58.966] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 269 not found
+[2026-07-29 02:03:58.967] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 269 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 02:09:28.821] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:09:28.821] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:09:28.849] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:09:28.850] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:09:28.862] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:09:28.862] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:09:38.097] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:09:38.098] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:09:38.130] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:09:38.131] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:09:38.142] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:09:38.142] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:09:41.942] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 99 not found
+[2026-07-29 02:09:41.942] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 99 not found
+[2026-07-29 02:09:41.976] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 99 not found
+[2026-07-29 02:09:41.976] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 99 not found
+[2026-07-29 02:09:41.990] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 99 not found
+[2026-07-29 02:09:41.991] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 99 not found
+[2026-07-29 02:09:43.317] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 99 not found
+[2026-07-29 02:09:43.318] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 99 not found
+[2026-07-29 02:09:43.337] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 99 not found
+[2026-07-29 02:09:43.337] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 99 not found
+[2026-07-29 02:09:43.350] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 99 not found
+[2026-07-29 02:09:43.351] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 99 not found
+Discharging
+[2026-07-29 02:10:01.302] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 195 not found
+[2026-07-29 02:10:01.302] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 195 not found
+[2026-07-29 02:10:01.311] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 195 not found
+[2026-07-29 02:10:01.311] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 195 not found
+[2026-07-29 02:10:01.323] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 195 not found
+[2026-07-29 02:10:01.323] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 195 not found
+Discharging
+Discharging
+[2026-07-29 02:11:46.350] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:46.351] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:46.353] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:46.353] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:46.369] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:46.369] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:51.906] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:51.906] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:51.907] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:51.907] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:51.913] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:51.913] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:54.156] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:54.156] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:54.156] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:54.157] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:54.162] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:54.163] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:55.607] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:55.608] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:55.610] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:55.611] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:55.623] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:55.624] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:57.152] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:57.153] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:57.155] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:57.155] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:57.168] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:57.169] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:58.008] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:58.008] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:58.009] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:11:58.009] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:58.023] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 174 not found
+[2026-07-29 02:11:58.025] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 174 not found
+[2026-07-29 02:12:13.000] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 268 not found
+[2026-07-29 02:12:13.000] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 268 not found
+[2026-07-29 02:12:13.001] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 268 not found
+[2026-07-29 02:12:13.001] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 268 not found
+[2026-07-29 02:12:13.012] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 268 not found
+[2026-07-29 02:12:13.013] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 268 not found
+[2026-07-29 02:12:16.718] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 272 not found
+[2026-07-29 02:12:16.718] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 272 not found
+[2026-07-29 02:12:16.718] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 272 not found
+[2026-07-29 02:12:16.719] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 272 not found
+[2026-07-29 02:12:16.724] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 272 not found
+[2026-07-29 02:12:16.725] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 272 not found
+[2026-07-29 02:12:19.371] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 272 not found
+[2026-07-29 02:12:19.372] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 272 not found
+[2026-07-29 02:12:19.373] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 272 not found
+[2026-07-29 02:12:19.373] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 272 not found
+[2026-07-29 02:12:19.382] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 272 not found
+[2026-07-29 02:12:19.383] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 272 not found
+[2026-07-29 02:12:20.662] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 272 not found
+[2026-07-29 02:12:20.662] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 272 not found
+[2026-07-29 02:12:20.663] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 272 not found
+[2026-07-29 02:12:20.663] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 272 not found
+[2026-07-29 02:12:20.669] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 272 not found
+[2026-07-29 02:12:20.669] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 272 not found
+[2026-07-29 02:12:21.544] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 272 not found
+[2026-07-29 02:12:21.544] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 272 not found
+[2026-07-29 02:12:21.545] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 272 not found
+[2026-07-29 02:12:21.545] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 272 not found
+[2026-07-29 02:12:21.549] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 272 not found
+[2026-07-29 02:12:21.550] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 272 not found
+[2026-07-29 02:12:28.035] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 272 not found
+[2026-07-29 02:12:28.036] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 272 not found
+[2026-07-29 02:12:28.036] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 272 not found
+[2026-07-29 02:12:28.037] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 272 not found
+[2026-07-29 02:12:28.042] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 272 not found
+[2026-07-29 02:12:28.042] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 272 not found
+[2026-07-29 02:12:37.724] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 278 not found
+[2026-07-29 02:12:37.724] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 278 not found
+[2026-07-29 02:12:37.725] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 278 not found
+[2026-07-29 02:12:37.725] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 278 not found
+[2026-07-29 02:12:37.730] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 278 not found
+[2026-07-29 02:12:37.730] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 278 not found
+Discharging
+[2026-07-29 02:13:05.859] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:05.859] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:05.860] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:05.861] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:05.868] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:05.868] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:10.035] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:10.051] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:10.065] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:10.066] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:11.503] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:11.504] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:11.505] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:11.505] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:11.511] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:11.512] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:12.684] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:12.684] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:12.686] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:12.686] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:12.696] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:12.697] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:20.890] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:20.891] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:20.892] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:20.893] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:20.903] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:20.904] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:23.970] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:23.970] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:23.970] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:23.970] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:23.975] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:23.975] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:24.606] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:24.606] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:24.606] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:24.607] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:24.612] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:24.613] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:27.829] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:27.830] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:27.831] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:27.831] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:27.842] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:27.843] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:28.715] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:28.716] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:28.718] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:28.719] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:28.734] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:28.735] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:31.110] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:31.111] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:31.112] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:31.113] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:31.123] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:31.123] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:31.553] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:31.553] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:31.554] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:31.554] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:31.558] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:31.559] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:32.076] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:32.077] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:32.079] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:32.079] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:32.086] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:32.087] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:32.972] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:32.972] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:32.975] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:32.975] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:32.986] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:32.987] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:35.443] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:35.444] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:35.445] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:35.445] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:35.448] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:35.449] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:36.257] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:36.257] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:36.258] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:36.258] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:36.263] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:36.263] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+Discharging
+[2026-07-29 02:13:48.963] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:48.964] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:48.965] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:48.965] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:48.976] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:48.977] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:50.641] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:50.641] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:50.642] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:50.642] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:50.675] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:50.676] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:51.726] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:51.726] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:51.727] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:51.728] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:51.733] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:51.733] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:52.955] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:52.955] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:52.957] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:13:52.957] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:52.966] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:13:52.966] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:02.921] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:02.922] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:02.922] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:02.923] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:02.933] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:02.934] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:04.227] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:04.228] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:04.229] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:04.229] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:04.238] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:04.239] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:05.109] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:05.110] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:05.111] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:05.111] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:05.117] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:05.117] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:06.015] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:06.016] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:06.017] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:06.018] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:06.025] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:06.026] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+Discharging
+[2026-07-29 02:14:08.203] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:08.203] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:08.204] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:08.205] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:08.210] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:08.211] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:08.609] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:08.610] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:08.610] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:08.610] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:08.615] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:08.616] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:15.523] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:15.524] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:15.525] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:15.525] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:15.531] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:15.531] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:31.221] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:31.222] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:31.225] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:31.226] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:31.237] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:31.237] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:33.237] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:33.237] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:33.241] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:33.241] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:33.250] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:33.251] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:33.905] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:33.905] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:33.908] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:33.908] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:33.917] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:33.917] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:35.317] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:35.317] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:35.320] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:35.320] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:35.328] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:35.328] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+Discharging
+[2026-07-29 02:14:37.120] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:37.120] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:37.121] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:37.121] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:37.126] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:37.126] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:37.934] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:37.935] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:37.936] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:37.937] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:37.940] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:37.940] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:38.554] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:38.554] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:38.554] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:38.555] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:38.558] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:38.558] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:44.544] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:44.544] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:44.545] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:44.545] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:14:44.553] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:14:44.553] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+Discharging
+[2026-07-29 02:14:46.560] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:14:46.561] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:14:46.569] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:14:46.570] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:14:52.932] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:14:52.933] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:14:52.933] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:14:52.934] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:14:52.939] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:14:52.939] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:14:54.182] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:14:54.182] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:14:54.186] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:14:54.186] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:14:54.195] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:14:54.195] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:14:58.692] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:14:58.693] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:14:58.695] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:14:58.696] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:14:58.703] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:14:58.703] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:15:00.001] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:15:00.001] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:15:00.002] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:15:00.002] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:15:00.007] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:15:00.007] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:15:03.039] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:15:03.039] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:15:03.042] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:15:03.042] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:15:03.050] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 288 not found
+[2026-07-29 02:15:03.051] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 288 not found
+[2026-07-29 02:15:06.522] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:06.522] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:06.524] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:06.524] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:06.530] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:06.531] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:08.460] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:08.460] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:08.461] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:08.461] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:08.466] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:08.466] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:13.224] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:13.224] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:13.225] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:13.225] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:13.230] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:13.230] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:15.554] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:15.554] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:15.556] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:15.556] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:15.565] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:15.566] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:16.291] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:16.292] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:16.292] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:16.293] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:16.301] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:16.302] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:17.201] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:17.201] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:17.205] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:17.206] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:17.981] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:17.982] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:17.983] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:17.983] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:17.988] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:17.989] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:20.092] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:20.093] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:20.094] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:20.094] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:20.101] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:20.102] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:34.956] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:34.957] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:34.957] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:34.957] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:15:34.965] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:15:34.966] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+Discharging
+[2026-07-29 02:16:05.212] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:16:05.212] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:16:05.214] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:16:05.214] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:16:05.224] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:16:05.225] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:16:06.412] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:16:06.413] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:16:06.413] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:16:06.414] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:16:06.423] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:16:06.423] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:16:07.456] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:16:07.457] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:16:07.457] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:16:07.457] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:16:07.467] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:16:07.468] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:16:08.113] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:16:08.113] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:16:08.114] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:16:08.114] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:16:08.119] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:16:08.120] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:16:09.677] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:16:09.677] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:16:09.679] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:16:09.679] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:16:09.686] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 284 not found
+[2026-07-29 02:16:09.686] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 284 not found
+[2026-07-29 02:16:16.061] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:16:16.061] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:16:16.061] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:16:16.062] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:16:16.067] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:16:16.068] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:16:18.828] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:16:18.828] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:16:18.829] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:16:18.829] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:16:18.837] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:16:18.837] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:16:20.879] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:16:20.880] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:16:20.882] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:16:20.882] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:16:20.892] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:16:20.892] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:16:22.631] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:16:22.631] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:16:22.633] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:16:22.634] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:16:22.643] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 283 not found
+[2026-07-29 02:16:22.644] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 283 not found
+[2026-07-29 02:16:23.285] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 289 not found
+[2026-07-29 02:16:23.285] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 289 not found
+[2026-07-29 02:16:23.286] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 289 not found
+[2026-07-29 02:16:23.286] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 289 not found
+[2026-07-29 02:16:23.291] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 289 not found
+[2026-07-29 02:16:23.292] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 289 not found
+[2026-07-29 02:16:42.053] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 293 not found
+[2026-07-29 02:16:42.054] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 293 not found
+[2026-07-29 02:16:42.055] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 293 not found
+[2026-07-29 02:16:42.055] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 293 not found
+[2026-07-29 02:16:42.064] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 293 not found
+[2026-07-29 02:16:42.065] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 293 not found
+Discharging
+[2026-07-29 02:16:45.568] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 293 not found
+[2026-07-29 02:16:45.568] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 293 not found
+[2026-07-29 02:16:45.570] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 293 not found
+[2026-07-29 02:16:45.570] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 293 not found
+[2026-07-29 02:16:45.581] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 293 not found
+[2026-07-29 02:16:45.582] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 293 not found
+[2026-07-29 02:16:51.001] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 293 not found
+[2026-07-29 02:16:51.001] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 293 not found
+[2026-07-29 02:16:51.002] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 293 not found
+[2026-07-29 02:16:51.002] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 293 not found
+[2026-07-29 02:16:51.008] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 293 not found
+[2026-07-29 02:16:51.008] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 293 not found
+[2026-07-29 02:16:52.429] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 293 not found
+[2026-07-29 02:16:52.430] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 293 not found
+[2026-07-29 02:16:52.431] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 293 not found
+[2026-07-29 02:16:52.432] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 293 not found
+[2026-07-29 02:16:52.441] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 293 not found
+[2026-07-29 02:16:52.442] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 293 not found
+[2026-07-29 02:16:53.974] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 293 not found
+[2026-07-29 02:16:53.975] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 293 not found
+[2026-07-29 02:16:53.977] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 293 not found
+[2026-07-29 02:16:53.977] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 293 not found
+[2026-07-29 02:16:53.987] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 293 not found
+[2026-07-29 02:16:53.988] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 293 not found
+Discharging
+Discharging
+Discharging
+Discharging
+Discharging
+[2026-07-29 02:18:09.659] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 253 not found
+[2026-07-29 02:18:09.660] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 253 not found
+[2026-07-29 02:18:09.665] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 253 not found
+[2026-07-29 02:18:09.665] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 253 not found
+[2026-07-29 02:18:09.668] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 253 not found
+[2026-07-29 02:18:09.668] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 253 not found
+Discharging
+[2026-07-29 02:19:07.379] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 253 not found
+[2026-07-29 02:19:07.379] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 253 not found
+[2026-07-29 02:19:07.385] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 253 not found
+[2026-07-29 02:19:07.385] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 253 not found
+[2026-07-29 02:19:07.389] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 253 not found
+[2026-07-29 02:19:07.390] [warning] [wireplumber]: (onMixerChanged: Audio/Source) - Object with id 253 not found

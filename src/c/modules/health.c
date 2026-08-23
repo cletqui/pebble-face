@@ -23,9 +23,14 @@ void health_update_steps(void) {
 #endif
   int goal =
       s_settings.step_goal > 0 ? s_settings.step_goal : STEP_GOAL_DEFAULT;
-  int milestones = (int)(steps / goal);
-  step_milestones = milestones > 10 ? 10 : milestones;
+  step_milestones = (int)(steps / goal);
   step_lit = (int32_t)(steps % goal) * 10 / goal;
+  // Once a goal has been hit, keep at least one dot lit so the milestone
+  // color has somewhere to show — otherwise right at a goal boundary
+  // step_lit rounds down to 0 and the milestone would be invisible until
+  // ~1,000 more steps.
+  if (step_milestones > 0 && step_lit == 0)
+    step_lit = 1;
 }
 
 void health_update_hr_activity(void) {

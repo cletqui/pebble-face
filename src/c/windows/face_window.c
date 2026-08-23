@@ -105,21 +105,26 @@ static void canvas_update_proc(Layer *layer, GContext *ctx) {
     graphics_fill_circle(ctx, pos_activity, 2);
   }
 
-  // Steps: dots 0..step_milestones-1 mark completed goal-multiples (bigger,
-  // single milestone color). The remaining dots show live progress toward
-  // the next milestone: lit in the "completed" color, unlit in "default".
+  // Steps: step_lit dots are lit (1,000 steps each). The milestone color
+  // overlays the *front* of that same lit run — up to step_milestones of
+  // them — rather than claiming its own dots next to it, so a completed
+  // goal never costs the progress display any room.
   if (s_settings.show_step_dots) {
+    int milestone_dots =
+        step_milestones < step_lit ? step_milestones : step_lit;
     for (int i = 0; i < 10; i++) {
-      bool milestone = i < step_milestones;
+      bool lit = i < step_lit;
+      bool milestone = i < milestone_dots;
       GColor c;
       uint8_t radius;
       if (milestone) {
         c = get_color(s_settings.milestone_color_idx);
         radius = 3;
+      } else if (lit) {
+        c = get_color(s_settings.step_completed_color_idx);
+        radius = 2;
       } else {
-        int rel = i - step_milestones;
-        c = rel < step_lit ? get_color(s_settings.step_completed_color_idx)
-                           : get_color(s_settings.step_default_color_idx);
+        c = get_color(s_settings.step_default_color_idx);
         radius = 2;
       }
       graphics_context_set_fill_color(ctx, c);
